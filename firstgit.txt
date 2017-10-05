@@ -1,2 +1,2 @@
-345111This is my first git file
-123and git is free software
+This is my first git file
+and git is free software
